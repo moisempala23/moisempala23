@@ -26,6 +26,7 @@ Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="Moisempala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/moise-mpala-b40557280/
 
