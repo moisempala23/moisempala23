@@ -6,7 +6,7 @@ Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-
   - [Linux](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 - <b>Security Auditing</b>
-  - [Windows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Windows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 - <b>Server Management </b>
   - [Group Policies](https://github.com/joshmadakor1/Sentinel-Lab)
