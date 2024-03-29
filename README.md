@@ -2,7 +2,7 @@ Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Configuring Windows and Linux Firewall </b>
-  - [Praciting DS & Algos in Python](https://www.loom.com/share/60535347e3d8485eb1550514a1fb35a6)
+  - [Windows Firewall ](https://www.loom.com/share/60535347e3d8485eb1550514a1fb35a6)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
