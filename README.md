@@ -11,7 +11,7 @@ Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-
 - <b>Server Management </b>
   - [Group Policies](https://github.com/joshmadakor1/Sentinel-Lab)
 
-   - <b>Vulnerabilty Scanners </b>
+ - <b>Vulnerabilty Scanners </b>
   - [Nessus](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - <b>SIEM Tool </b>
