@@ -21,7 +21,7 @@ Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MoiseMpala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/moise-mpala-b40557280/
