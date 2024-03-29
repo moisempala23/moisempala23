@@ -1,6 +1,13 @@
 Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-b40557280/">Cyber Security Professional
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Firewall Configuration </b>
+  - [Windows](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
+
 - <b>Configuring Windows Firewall </b>
   - [Windows Firewall ](https://www.loom.com/share/60535347e3d8485eb1550514a1fb35a6)
 - <b>Configuring Linux Firewall </b>
