@@ -1,7 +1,7 @@
 Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-b40557280/">Cyber Security Professional
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Configuring Windows and Linux Firewall (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
