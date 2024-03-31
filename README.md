@@ -3,19 +3,19 @@ Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-
 
 - <b>Firewall Configuration </b>
   - [Windows](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Linux](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Linux](Coming soon )
 
 - <b>Security Auditing</b>
-  - [Windows](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Windows](https://www.loom.com/share/96f1c0801d6f48e481098aff441024b1)
 
 - <b>Server Management </b>
-  - [Group Policies](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Group Policies](https://www.loom.com/share/c7603424ec074a71b2f0ce9cbb62289e)
 
  - <b>Vulnerabilty Scanners </b>
-   - [Nessus](https://github.com/joshmadakor1/Sentinel-Lab)
+   - [Nessus](https://www.loom.com/share/d6d9890c3a8a4a86919112682be9440f)
 
 - <b>SIEM Tool </b>
-  - [SIEM](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [SIEM](https://www.loom.com/share/caaff822e1cc421d840e47a1d1f94b25)
 
 
 
