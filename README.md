@@ -2,8 +2,7 @@ Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Firewall Configuration </b>
-  - [Windows](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Linux](Coming soon )
+  - [Windows](https://www.loom.com/share/13cdc8e1afc34693bece3f51aaaa4099)
 
 - <b>Security Auditing</b>
   - [Windows](https://www.loom.com/share/96f1c0801d6f48e481098aff441024b1)
