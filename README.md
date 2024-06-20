@@ -1,4 +1,4 @@
-Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-b40557280/">Cyber Security Professional
+Hi, My name is Moise Mpala, an <a href="https://www.linkedin.com/in/moise-mpala-b40557280/">IT Professional
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Firewall Configuration </b>
